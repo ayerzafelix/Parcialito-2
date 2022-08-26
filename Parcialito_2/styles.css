@@ -1,0 +1,16 @@
+div {
+	background-color: rgba(162, 113, 207, 0.691);
+	width: 100%;
+    height: auto;
+    padding: 12px;
+    box-sizing: border-box;
+    align-items: stretch;
+} 
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  img {background-color:  rgba(122, 230, 194, 0.787)
+    ;}
